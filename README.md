@@ -117,41 +117,71 @@ AI_Dashboard/
 │   └── data/
 │
 └── requirements.txt
+```
 
+---
 
-🚀 Installation
-1️⃣ Clone Repository
+# 🚀 Installation
 
+## 1️⃣ Clone Repository
+
+```bash
 git clone <repository-link>
 cd AI_Dashboard
+```
 
-2️⃣ Create Virtual Environment
+## 2️⃣ Create Virtual Environment
+
+```bash
 python -m venv venv
-Activate Environment
-Windows
+```
+
+### Activate Environment
+
+#### Windows
+
+```bash
 venv\Scripts\activate
-Linux / Mac
+```
+
+#### Linux / Mac
+
+```bash
 source venv/bin/activate
+```
 
-3️⃣ Install Dependencies
+## 3️⃣ Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-▶️ Run The Dashboard
+---
+
+# ▶️ Run The Dashboard
+
+```bash
 streamlit run app.py
-🛠️ Technologies
-Python
-Streamlit
-Scikit-learn
-Pandas
-NumPy
-NLP
-Machine Learning
-🔥 Future Improvements
-User authentication
-Cloud deployment
-Database integration
-Mobile responsiveness
-More AI projects
-👨‍💻 Author
+```
 
-Developed as a multi-project AI dashboard using Python, Streamlit, and Machine Learning.
+---
+
+# 🛠️ Technologies
+
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- NumPy
+- NLP
+- Machine Learning
+
+---
+
+# 🔥 Future Improvements
+
+- User authentication
+- Cloud deployment
+- Database integration
+- Mobile responsiveness
+- More AI projects
